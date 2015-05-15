@@ -1,0 +1,3 @@
+[
+	{ "keys": ["shift+command+m"], "command": "goto_definition" }
+]

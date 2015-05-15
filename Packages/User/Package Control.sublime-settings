@@ -1,6 +1,30 @@
 {
+	"in_process_packages":
+	[
+	],
 	"installed_packages":
 	[
-		"Package Control"
+		"Alignment",
+		"All Autocomplete",
+		"BracketHighlighter",
+		"Emmet",
+		"FuzzyFilePath",
+		"Git",
+		"GitGutter",
+		"HTML5",
+		"JsFormat",
+		"LESS",
+		"Markdown Preview",
+		"Package Control",
+		"Pretty JSON",
+		"RuboCop",
+		"Sass",
+		"SideBarEnhancements",
+		"SublimeCodeIntel",
+		"SublimeLinter",
+		"SublimeLinter-jshint",
+		"SublimeLinter-rubocop",
+		"Theme - SoDaReloaded",
+		"Theme - Spacegray"
 	]
 }
